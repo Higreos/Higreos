@@ -1,15 +1,46 @@
-<h1 align="center">Hi 👋, I'm Nordtree</h1>
-<h3 align="center">A selflearn developer from Austria</h3>
+<h1 align="center">Hi There 👋, I'm Nordtree 👩‍💻</h1>
 
-- 🔭 I’m currently working on **Tropcialdreams.eu**
+<p align='center'>I live in Tirol, Austria and I'm a selflearn Coder</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/xx_nordtree_xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xx_nordtree_xx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nordtree yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nordtree yt" height="30" width="40" /></a>
-<a href="https://discord.gg/cMTxKz8XSU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cMTxKz8XSU" height="30" width="40" /></a>
+<hr>
+
+<p align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nordtree12&theme=tokyonight" alt="Nordtree's Stats"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<hr>
 
+<h4 align="center">🔭  Languages and Frameworks ...</h4>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h4 align="center">🌱  Operating Systems ...</h4>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h4 align="center">🛠️ Tools and Platforms ...</h4>
+<p align="center">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nordtree12&theme=tokyonight&layout=compact&custom_title=My%20Timesinks" alt="Languages">
+</p>
+
+<h5 align="right">🎮 To have fun and spend time...</h5>
