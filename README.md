@@ -31,7 +31,7 @@
 
 <h4 align="center">🛠️ Tools and Platforms ...</h4>
 <p align="center">
-    <a href="[https://www.google.com/](https://discord.gg/cMTxKz8XSU)" target="_blank">test</a>
+    <a href="https://www.google.com/" target="_blank">Google</a>
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">&nbsp;&nbsp;
