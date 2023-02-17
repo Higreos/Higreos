@@ -20,19 +20,32 @@
 
 <hr>
 
-<h4 align="center">🌱  Operating Systems ...</h4>
+<h4 align="center">🌱 Operating Systems ...</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">&nbsp;&nbsp;
 </p>
-
 <hr>
 
-<h4 align="center">🛠️ Tools and Platforms ...</h4>
+<h4 align="center">🌐 Sozial and Networks ...</h4>
+
 <p align="center">
-    <a href="https://discord.gg/cMTxKz8XSU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;</a>
+<a href="https://discord.gg/cMTxKz8XSU" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;
+</a>
+<a href="https://discord.gg/cKpygGnBAT" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;
+</a>
+<a href="https://github.com/Nordtree12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
+</a>
+</p>
+    
+<hr>
+
+<h4 align="center">🛠️ Tools ...</h4>
+<p align="center">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">&nbsp;&nbsp;
 </p>
