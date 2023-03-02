@@ -34,9 +34,6 @@
 <a href="https://discord.gg/cMTxKz8XSU" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;
 </a>
-<a href="https://discord.gg/cKpygGnBAT" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;
-</a>
 <a href="https://github.com/Nordtree12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
 </a>
