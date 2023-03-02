@@ -1,11 +1,14 @@
-<h1 align="center">Hi There 👋, I'm Nordtree 👩‍💻</h1>
-
+<p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=32&duration=2000&pause=10000000&color=F70000&center=true&vCenter=true&multiline=true&width=500&lines=Hi%2C+I'm+Nordtree" alt="Typing SVG" /></a>
+</p>
 <p align='center'>I live in Tirol, Austria and I'm a selflearn Coder</p>
 
 <hr>
 
+![](https://komarev.com/ghpvc/?username=Nordtree12&color=dc143c)
+
 <p align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nordtree12&theme=tokyonight" alt="Nordtree's Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Nordtree12&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&title_color=ff0000&icon_color=ff0000&locale=de" alt="Nordtree's Stats"/>
 </p>
 
 <hr>
