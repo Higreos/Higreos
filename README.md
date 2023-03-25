@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=Nordtree12&color=dc143c)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nordtree12&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&title_color=ff0000&icon_color=ff0000&locale=de" alt="Nordtree's Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Higreos&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&title_color=ff0000&icon_color=ff0000&locale=de" alt="Nordtree's Stats"/>
 </p>
 
 <hr>
