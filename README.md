@@ -32,8 +32,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higreos&langs_count=8&theme=monokai" alt=Higreos />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Higreos&show_icons=true&locale=en&theme=monokai" alt="Higreos" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Higreos&theme=monokai" alt="Higreos" /></p>
